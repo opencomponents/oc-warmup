@@ -1,0 +1,32 @@
+{
+  "name": "oc-warmup",
+  "version": "1.0.0",
+  "description": "A plugin for warming up an OpenComponents registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/.bin/jshint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteofigus/oc-warmup"
+  },
+  "keywords": [
+    "opencomponents",
+    "oc",
+    "warmup",
+    "open",
+    "components"
+  ],
+  "author": "Matteo Figus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matteofigus/oc-warmup/issues"
+  },
+  "homepage": "https://github.com/matteofigus/oc-warmup",
+  "dependencies": {
+    "minimal-request": "2.0.0"
+  },
+  "devDependencies": {
+    "jshint": "2.9.1"
+  }
+}
