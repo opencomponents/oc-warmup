@@ -1,4 +1,4 @@
-oc-warmup [![Build Status](https://secure.travis-ci.org/matteofigus/oc-warmup.png?branch=master)](http://travis-ci.org/matteofigus/oc-warmup)
+oc-warmup [![Build Status](https://secure.travis-ci.org/matteofigus/oc-warmup.png?branch=master)](http://travis-ci.org/opencomponents/oc-warmup)
 ===============
 
 [![NPM](https://nodei.co/npm/oc-warmup.png?downloads=true)](https://npmjs.org/package/oc-warmup)
