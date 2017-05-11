@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matteofigus/oc-warmup"
+    "url": "https://github.com/opencomponents/oc-warmup"
   },
   "keywords": [
     "opencomponents",
@@ -20,9 +20,9 @@
   "author": "Matteo Figus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matteofigus/oc-warmup/issues"
+    "url": "https://github.com/opencomponents/oc-warmup/issues"
   },
-  "homepage": "https://github.com/matteofigus/oc-warmup",
+  "homepage": "https://github.com/opencomponents/oc-warmup",
   "dependencies": {
     "minimal-request": "2.0.0"
   },
