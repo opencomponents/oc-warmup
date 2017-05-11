@@ -1,6 +1,8 @@
 oc-warmup [![Build Status](https://secure.travis-ci.org/matteofigus/oc-warmup.png?branch=master)](http://travis-ci.org/opencomponents/oc-warmup)
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opencomponents/oc-warmup.svg)](https://greenkeeper.io/)
+
 [![NPM](https://nodei.co/npm/oc-warmup.png?downloads=true)](https://npmjs.org/package/oc-warmup)
 
 Allows to warmup all components for a given [OpenComponents](https://github.com/opentable/oc)' registry. In practice, given every registry's instance has an internal cache for components' compiled views and server.js' closures, the module performs the following actions:
