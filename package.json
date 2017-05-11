@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/matteofigus/oc-warmup",
   "dependencies": {
-    "minimal-request": "2.0.0"
+    "minimal-request": "2.2.0"
   },
   "devDependencies": {
-    "jshint": "2.9.1"
+    "jshint": "2.9.4"
   }
 }
