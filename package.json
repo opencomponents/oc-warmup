@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/opencomponents/oc-warmup",
   "dependencies": {
-    "minimal-request": "2.2.0"
+    "minimal-request": "3.0.0"
   },
   "devDependencies": {
     "jshint": "2.9.5"
